@@ -6,7 +6,5 @@
 #banner {
 	width:100%;
 	height:100vh;
-	background: linear-gradient (#3286ab,#eeedcf,#334782);
-	background-size: cover;
-	background-position: centre;
+	background-color: linear-gradient (#3286ab,#eeedcf,#334782);
 }
